@@ -1,1 +1,4 @@
-start
+get started
+install sbt
+set environment parameters
+sbt package - to compile scala source code
